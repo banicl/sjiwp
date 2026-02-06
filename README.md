@@ -1,6 +1,4 @@
-# 💻 Skriptni jezici i web programiranje
-
-Repozitorij predmeta **Skriptni jezici i web programiranje** 💻
+# 💻 Repozitorij predmeta Skriptni jezici i web programiranje
 
 Ovdje se nalaze primjeri koda, vježbe i zadaci koje radimo na nastavi. Repo vam služi kao mjesto na kojem možete ponovo proći gradivo, preuzeti primjere i isprobati kod u vlastitom okruženju.
 
