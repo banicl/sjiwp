@@ -15,7 +15,7 @@ Ovaj repozitorij vam je posebno koristan ako:
 
 
 
-Primjeri koda su tu da ih **pročitate, pokrenete i razumijete**, ne samo da ih kopirate 🙂  
+Primjeri koda su tu da ih **pročitate, pokrenete i razumijete**, ne samo da ih kopirate. 🙂  
 Najviše ćete naučiti ako sami tipkate i isprobavate izmjene.
 
 ---
