@@ -1,4 +1,4 @@
-# 📘 Skriptni jezici i web programiranje
+# 💻 Skriptni jezici i web programiranje
 
 Repozitorij predmeta **Skriptni jezici i web programiranje** 💻
 
@@ -22,7 +22,7 @@ Najviše ćete naučiti ako sami tipkate i isprobavate izmjene.
 
 ---
 
-## 🛠️ Kako raditi s primjerima
+## ✨ Kako raditi s primjerima
 
 Preporuka:
 1. Clone repozitorij na računalo
